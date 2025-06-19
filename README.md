@@ -1,2 +1,2 @@
 # AULA-2
-AULA 2 
+Criação de página simples.
